@@ -16,3 +16,4 @@ hello 小朱！ hello git!
 hello 小朱！ hello git!master test
 hello 小朱！ hello git!hot-fix test
 123456789
+123456789
