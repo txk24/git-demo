@@ -14,4 +14,4 @@ hello 小朱！ hello git!
 hello 小朱！ hello git!
 hello 小朱！ hello git!
 hello 小朱！ hello git!
-hello 小朱！ hello git!
+hello 小朱！ hello git!hot-fix test
